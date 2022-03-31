@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 $(find /tmp/my_dir -type d)
+mkdir -m 751 my_dir
